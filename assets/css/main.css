@@ -2936,7 +2936,8 @@ input, select, textarea {
 
 			header.major > p {
 				margin-top: 0;
-				text-align: center;
+				text-align: justify;
+				text-indent: 3rem;
 			}
 
 			header.major > .date {
